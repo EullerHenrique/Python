@@ -8,3 +8,7 @@
  
 - ## Django: Ddd
   - https://github.com/EullerHenrique/manager_consumer
+
+- ## Django: Login
+  - https://github.com/EullerHenrique/login_proposta_django
+  
