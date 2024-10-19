@@ -6,9 +6,9 @@
 - ## Organização e recuperação da informação
   - https://github.com/EullerHenrique/ORI
  
-- ## Django: Ddd
-  - https://github.com/EullerHenrique/manager_consumer
+- ## Django: Token Jwt e Integração com api externa
+  - https://github.com/EullerHenrique/poc_v1_django
 
-- ## Django: Login
-  - https://github.com/EullerHenrique/login_proposta_django
+- ## Django: Login, Tokwn Jwt e Integragação com api externa
+  - https://github.com/EullerHenrique/poc_v2_django
   
