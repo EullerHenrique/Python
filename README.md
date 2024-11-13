@@ -6,7 +6,7 @@
 - ## Organização e recuperação da informação
   - https://github.com/EullerHenrique/ORI
  
-- ## Django: Token Jwt e Integração com api externa
+- ## Django: Start
   - https://github.com/EullerHenrique/poc_v1_django
 
 - ## Django: Login, Tokwn Jwt e Integragação com api externa
