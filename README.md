@@ -9,7 +9,7 @@
 - ## Django: Start
   - https://github.com/EullerHenrique/poc_v1_django
 
-- ## Django: Login, Tokwn Jwt e Integragação com api externa
+- ## Django: Login, Tokwn Jwt e Integação com api externa
   - https://github.com/EullerHenrique/poc_v2_django
  
 - ## Flask: Start
